@@ -3174,7 +3174,7 @@ export const UserMenu: React.FC = () => {
                 超分，观影室，豆瓣反爬，精确搜索等等等等，直接抄袭，最不要脸的就是，刚更新一版，几小时后直接抄走。
               </p>
               <p className='text-gray-800 dark:text-gray-200 leading-relaxed mt-3'>
-                <span className='font-semibold text-red-600 dark:text-red-400'>2025-02-25：</span>抄袭emby功能
+                <span className='font-semibold text-red-600 dark:text-red-400'>2026-02-25：</span>抄袭emby功能
               </p>
             </div>
           </div>
